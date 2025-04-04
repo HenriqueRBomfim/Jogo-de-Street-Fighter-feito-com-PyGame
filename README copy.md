@@ -1,6 +1,6 @@
 # Projeto_Final_DesSoft
 
-Repositório para o Projeto Final da matéria de DesSoft: [Repositório no GitHub](https://github.com/HenriqueRBomfim/Jogo-de-Street-Fighter-feito-com-PyGame)
+Repositório para o Projeto Final da matéria de DesSoft: [Repositório no GitHub](https://github.com/HenriqueFBadin/Projeto_Final_DesSoft.git)
 
 ## Trailer/Comercial do jogo:
 [![Vídeo de apresentação do jogo](https://img.youtube.com/vi/SpFoWM9AOd8/0.jpg)](https://youtu.be/SpFoWM9AOd8)
